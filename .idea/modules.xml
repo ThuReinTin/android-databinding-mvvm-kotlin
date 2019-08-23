@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidWorkSpace-android-databinding-mvvm-kotlin.iml" filepath="$PROJECT_DIR$/AndroidWorkSpace-android-databinding-mvvm-kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-databinding-mvvm-kotlin.iml" filepath="$PROJECT_DIR$/android-databinding-mvvm-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-databinding-mvvm-kotlin-app.iml" filepath="$PROJECT_DIR$/app/android-databinding-mvvm-kotlin-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
